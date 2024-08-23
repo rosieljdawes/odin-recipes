@@ -1,0 +1,1 @@
+In this project I will create a wesite for recipes with a homepage with links to pages with recipes on. There will be images and links. I will make appropriate and descriptive commits thoughtout the project.
