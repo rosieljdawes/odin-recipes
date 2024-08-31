@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #9d5fd4;
+    background-color: blanchedalmond;
+}
+.title {
+    font-size: 64px;
+    font-weight: bold;
+}
+.list {
+    font-size: 36px;
+    color: #89cf7a;
+}
+
+.green {
+    color: #89cf7a;
+}
+
+.purple {
+    color: #9d5fd4;
+}
+
+.button {
+    background-color: #89cf7a;
+    color: #FFFFFF;
+    font-weight: bold;
+    border-style: double;
+    border-color: #9d5fd4;
+}
